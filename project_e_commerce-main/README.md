@@ -2,6 +2,7 @@
 # Hello World Website
 # Welcome to this World
 # Enjoy Life
+# Learn Everyday
 # Play Valorant - Everyday
 =======
 # Play Valorant - Everyday - Everywhere
